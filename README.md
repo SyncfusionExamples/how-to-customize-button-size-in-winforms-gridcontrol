@@ -1,4 +1,4 @@
-# How to Customize Button Size in WinForms GridControl?
+# How to Set Images on a Pushbutton in WinForms GridControl?
 
 This example demonstrates how to customize button size in [WinForms GridControl](https://www.syncfusion.com/winforms-ui-controls/grid-control).
 
