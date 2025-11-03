@@ -2,7 +2,7 @@
 
 This example demonstrates how to customize button size in [WinForms GridControl](https://www.syncfusion.com/winforms-ui-controls/grid-control).
 
-To set the images on buttons in a GridControl column, draw the images with a specific size in the [DrawCellButton](https://help.syncfusion.com/cr/windowsforms/Syncfusion.Windows.Forms.Grid.GridControlBase.html#Syncfusion_Windows_Forms_Grid_GridControlBase_DrawCellButton) event.
+To set images on a PushButtons in GridControl column, draw the images with a specific size in the [DrawCellButton](https://help.syncfusion.com/cr/windowsforms/Syncfusion.Windows.Forms.Grid.GridControlBase.html#Syncfusion_Windows_Forms_Grid_GridControlBase_DrawCellButton) event.
 
 ``` csharp
 //Event Triggering
