@@ -1,6 +1,6 @@
 # How to Set Images on a Pushbutton in WinForms GridControl?
 
-This example demonstrates how to customize button size in [WinForms GridControl](https://www.syncfusion.com/winforms-ui-controls/grid-control).
+This example demonstrates to set images on a Pushbutton in [WinForms GridControl](https://www.syncfusion.com/winforms-ui-controls/grid-control).
 
 To set images on a PushButtons in GridControl column, draw the images with a specific size in the [DrawCellButton](https://help.syncfusion.com/cr/windowsforms/Syncfusion.Windows.Forms.Grid.GridControlBase.html#Syncfusion_Windows_Forms_Grid_GridControlBase_DrawCellButton) event.
 
